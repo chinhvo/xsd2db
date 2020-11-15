@@ -1,0 +1,8 @@
+E:\Project\xsd2db\bin\Debug\xsd2db.exe.config
+E:\Project\xsd2db\bin\Debug\xsd2db.exe
+E:\Project\xsd2db\bin\Debug\xsd2db.pdb
+E:\Project\xsd2db\Tools\xsd2db\obj\Debug\Xsd2DB.csprojAssemblyReference.cache
+E:\Project\xsd2db\Tools\xsd2db\obj\Debug\Xsd2DB.csproj.CoreCompileInputs.cache
+E:\Project\xsd2db\Tools\xsd2db\obj\Debug\Xsd2DB.csproj.CopyComplete
+E:\Project\xsd2db\Tools\xsd2db\obj\Debug\xsd2db.exe
+E:\Project\xsd2db\Tools\xsd2db\obj\Debug\xsd2db.pdb

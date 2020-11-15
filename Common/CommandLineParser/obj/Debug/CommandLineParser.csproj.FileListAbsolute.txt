@@ -1,0 +1,7 @@
+E:\Project\xsd2db\bin\Debug\Xsd2Db.CommandLineParser.dll
+E:\Project\xsd2db\bin\Debug\Xsd2Db.CommandLineParser.pdb
+E:\Project\xsd2db\bin\Debug\Xsd2Db.CommandLineParser.Documentation.xml
+E:\Project\xsd2db\Common\CommandLineParser\obj\Debug\CommandLineParser.csproj.CoreCompileInputs.cache
+E:\Project\xsd2db\Common\CommandLineParser\obj\Debug\CommandLineParser.csproj.CopyComplete
+E:\Project\xsd2db\Common\CommandLineParser\obj\Debug\Xsd2Db.CommandLineParser.dll
+E:\Project\xsd2db\Common\CommandLineParser\obj\Debug\Xsd2Db.CommandLineParser.pdb
