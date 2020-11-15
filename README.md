@@ -4,3 +4,5 @@ Tag:
 +How to build a database from an XSD schema and import XML data
 +Convert XSD into SQL relational tables
 
+Reference:
+http://xsd2db.sourceforge.net/
