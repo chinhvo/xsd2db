@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DataSet>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DepartmentNumber" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" />
+              <xs:element name="DepartmentName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <NewDataSet xmlns="">
+    <Table1 diffgr:id="Table11" msdata:rowOrder="0">
+      <DepartmentNumber>1</DepartmentNumber>
+      <DepartmentName>Clothing</DepartmentName>
+    </Table1>
+    <Table1 diffgr:id="Table12" msdata:rowOrder="1">
+      <DepartmentNumber>2</DepartmentNumber>
+      <DepartmentName>Electronics</DepartmentName>
+    </Table1>
+    <Table1 diffgr:id="Table13" msdata:rowOrder="2">
+      <DepartmentNumber>3</DepartmentNumber>
+      <DepartmentName>CellPhones</DepartmentName>
+    </Table1>
+  </NewDataSet>
+</diffgr:diffgram>
+</DataSet>
